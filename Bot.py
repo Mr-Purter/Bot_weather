@@ -8,7 +8,7 @@ from random import randint
 
                                             #Токены
 OWM = 'f189a540bc3a8995542e3e4637203d3f'
-bot = Bot(token="5223084927:AAFLsNWXL0gH7PAoQwvyo8RZ7yv-XLbrqGQ")
+bot = Bot(token="")
 dp = Dispatcher(bot)
 
                                             #Типы погоды
